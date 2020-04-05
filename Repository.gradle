@@ -1,0 +1,11 @@
+/**
+ * Repositories
+ * @see http://www.gradle.org/docs/current/userguide/userguide_single.html#sec:repositories
+ */
+repositories {
+    jcenter()
+    maven {
+    	name = "ChickenBones"
+    	url = "http://chickenbones.net/maven"
+    }
+}
