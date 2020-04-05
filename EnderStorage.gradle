@@ -1,0 +1,9 @@
+apply from : 'https://github.com/ReiRokusanami0010/BuildScriptScheme/raw/master/CodeChickenCore.gradle'
+
+/**
+ * Declare dependencies
+ * @see http://www.gradle.org/docs/current/userguide/userguide_single.html#sec:how_to_declare_your_dependencies
+ */
+dependencies {
+    deobfCompile 'codechickencore:EnderStorage:1.12.2-2.4.5.135:universal'
+}
