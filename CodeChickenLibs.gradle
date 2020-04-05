@@ -1,3 +1,3 @@
 dependencies {
-	deobfCompile "codechicken:CodeChickenLibs:1.12.2-3.2.3.358:universal"
+	deobfCompile "codechicken:CodeChickenLib:1.12.2-3.2.3.358:universal"
 }
