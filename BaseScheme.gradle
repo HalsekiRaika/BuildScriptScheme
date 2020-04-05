@@ -1,0 +1,5 @@
+apply plugin: 'maven'
+apply plugin: 'java'
+
+apply from : 'https://github.com/ReiRokusanami0010/BuildScriptScheme/blob/master/Repository.gradle'
+
