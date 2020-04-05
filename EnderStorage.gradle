@@ -1,4 +1,4 @@
-apply from : 'https://github.com/ReiRokusanami0010/BuildScriptScheme/raw/master/CodeChickenCore.gradle'
+apply from : 'https://github.com/ReiRokusanami0010/BuildScriptScheme/raw/master/CodeChickenLibs.gradle'
 
 /**
  * Declare dependencies
