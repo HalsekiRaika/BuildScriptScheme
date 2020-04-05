@@ -1,5 +1,5 @@
 apply plugin: 'maven'
 apply plugin: 'java'
 
-apply from : 'https://raw.githubusercontent.com/ReiRokusanami0010/BuildScriptScheme/blob/master/Repository.gradle'
+apply from : 'https://raw.githubusercontent.com/ReiRokusanami0010/BuildScriptScheme/master/Repository.gradle'
 
